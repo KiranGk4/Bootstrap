@@ -1,0 +1,25 @@
+.card{
+    color: black;
+    /* width: max-content; */
+    margin: 5px;
+}
+
+.card-title{
+    font-size: medium;
+}
+
+img{
+    width: 180px;
+    height: 187px;
+    border-radius: 7px;
+}
+
+.card-title{
+    text-align: center;
+}
+
+.github{
+    font-size: 25px;
+    font-weight: 20px;
+    text-decoration: none;
+}
